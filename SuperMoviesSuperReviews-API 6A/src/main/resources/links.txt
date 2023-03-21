@@ -1,0 +1,26 @@
+new user register
+
+http://localhost:9595/registerNewUser
+
+
+swagger ui
+
+
+http://localhost:9595/swagger-ui/index.html
+
+
+swagger documentation
+
+http://localhost:9595/v3/api-docs
+
+
+
+posting of data with image
+
+
+http://localhost:9595/upload/image/data
+
+
+for login 
+
+http://localhost:9595/authenticate
